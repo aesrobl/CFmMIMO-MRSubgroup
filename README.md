@@ -5,5 +5,5 @@ El objetivo principal de este trabajo de fin de grado (TFG) es observar el compo
 # Estructura del repositorio
 - `/code`: Contiene todos los scripts principales de MATLAB utilizados para realizar las simulaciones.
 - `/data`: Incluye los datos generados y utilizados en las simulaciones.
-- `/docs`: Memoria del TFG en formato PDF, junto con algunos documentos para ahondar en el tema.
+- `/docs`: Memoria del TFG en formato PDF, junto con algunos documentos y artículos de referencia para ahondar en la temática del trabajo.
 - `/results`: Contiene las figuras utilizadas en el trabajo, así como el crudo de figuras ".mat" utilizadas para conformar las figuras de la memoria.
