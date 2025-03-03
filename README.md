@@ -1,5 +1,9 @@
 # Análisis y comparativa de las prestaciones de diferentes variantes de precodificación para transmisiones multicast en entornos Cell-Free Massive MIMO distribuidos.
-En este repositorio se encuentra el código fuente usado para llevar a cabo las distintas simulaciones y escenarios detallados en mi TFG titulado "". Este trabajo se centra en observar las distintas prestaciones para los usuarios al utilizar diferentes precodificadores Maximum Ratio para transmisiones multicast, utilizando además la agrupación de usuarios.
+En este repositorio se encuentra el código fuente usado para llevar a cabo las distintas simulaciones y escenarios detallados en mi TFG titulado "Transmisiones multicast en entornos cell-free massive MIMO: análisis de prestaciones de diferentes precodificadores". Este trabajo se centra en observar las distintas prestaciones para los usuarios al utilizar diferentes precodificadores Maximum Ratio para transmisiones multicast, utilizando además la agrupación de usuarios.
 # Objetivo del estudio
-Escribir
+El objetivo principal de este trabajo de fin de grado (TFG) es observar el comportamiento y resultados del análisis, dentro de una red CF-mMIMO, de las prestaciones de tres tipos de precodificadores distribuidos en el enlace descendente (downlink, DL) y su comparativa frente a diversos escenarios multicast y unicast. Para llevar a cabo este objetivo, se necesita realizar un correcto trabajo de investigación sobre el tema principal CF-mMIMO, así como comprender su evolución desde las primeras redes de telecomunicación hasta la actualidad, pasando por la comprensión de su modelo matemático, los parámetros a tener en cuenta para los precodificadores y realizar las simulaciones necesarias para poder obtener los resultados que permitan extraer conclusiones ventajosas para posibles estudios futuros y el desarrollo de estas tecnologías.
 # Estructura del repositorio
+- `/src`: Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
+- `/data`: Incluye los datos generados y utilizados en las simulaciones.
+- `/docs`: Documentación adicional y recursos relevantes para el proyecto, así como la memoria del TFG.
+- `/results`: Contiene los resultados de las simulaciones, incluyendo gráficas y figuras generadas.
