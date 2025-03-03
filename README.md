@@ -3,7 +3,7 @@ En este repositorio se encuentra el código fuente usado para llevar a cabo las 
 # Objetivo del estudio
 El objetivo principal de este trabajo de fin de grado (TFG) es observar el comportamiento y resultados del análisis, dentro de una red CF-mMIMO, de las prestaciones de tres tipos de precodificadores distribuidos en el enlace descendente (downlink, DL) y su comparativa frente a diversos escenarios multicast y unicast. Para llevar a cabo este objetivo, se necesita realizar un correcto trabajo de investigación sobre el tema principal CF-mMIMO, así como comprender su evolución desde las primeras redes de telecomunicación hasta la actualidad, pasando por la comprensión de su modelo matemático, los parámetros a tener en cuenta para los precodificadores y realizar las simulaciones necesarias para poder obtener los resultados que permitan extraer conclusiones ventajosas para posibles estudios futuros y el desarrollo de estas tecnologías.
 # Estructura del repositorio
-- `/src`: Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
+- `/code`: Contiene todos los scripts principales de MATLAB utilizados para realizar las simulaciones.
 - `/data`: Incluye los datos generados y utilizados en las simulaciones.
-- `/docs`: Documentación adicional y recursos relevantes para el proyecto, así como la memoria del TFG.
-- `/results`: Contiene los resultados de las simulaciones, incluyendo gráficas y figuras generadas.
+- `/docs`: Memoria del TFG en formato PDF, junto con algunos documentos para ahondar en el tema.
+- `/results`: Contiene las figuras utilizadas en el trabajo, así como el crudo de figuras ".mat" utilizadas para conformar las figuras de la memoria.
